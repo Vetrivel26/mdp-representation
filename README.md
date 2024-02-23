@@ -41,8 +41,8 @@ Moving Right
 
 ## PYTHON REPRESENTATION:
 ```
-# Developed by: Bairav Skandan Loha
-# Register Number: 212221230010
+# Developed by: Vetrivel S
+# Register Number: 212221240060
 
 P = {
     0:{
